@@ -2,6 +2,12 @@
 Studerande: 
 # William Berhane 
 
+Fullstack developer (FDW)
+
+inlämningdatum: 20231015
+
+Chas Academy 
+
 <br>
 
 ## Begrepp ord:

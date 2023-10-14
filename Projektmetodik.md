@@ -122,21 +122,39 @@ De flesta äldre mjukvaruutvecklare tenderar att kalla denna metodik för en "pl
 
 ## PJ 1.4 Issue distribution and handling in a group
 
-***Issue distribution and handling in a group***  som det heter är att några problem inträffade under distribution och med fokus på att hitta lösning i ett team. Man kunde se ett enkelt exempel från microsoft.com <br>
+***Issue distribution and handling in a group***  som det heter är att varje störning av en organisations IT-tjänster som påverkar allt från en enskild användare eller hela verksamheten. Kort sagt, en issue är allt som avbryter affärskontinuiteten.
+<br>
 
-Issue: att e-postmeddelanden levereras inte till distributionsgruppen  <br>
+I en sådan situation behöver man en IT-issuehantering. Issuehantering är processen att hantera störningar i It-tjänster och återställa tjänster inom överenskomna servicenivåavtal(Service level agreements(SLAs))
+<br>
 
-Handling i grupp: <br>
+Issuehantering omfattning börjar med att en slutanvändare rapporterar ett problem och slutar med att en group eller teammedlem löser problemet. 
 
-- Det tar vanligtvis cirka 60 minuter för distributionsgrupper att vara helt skapade och redo för hantering. Se till att du har väntat tillräckligt länge och försök skicka e-postmeddelandet igen.
-- Ibland skapar människor en Microsoft 365-grupp istället för en distributionsgrupp. Kolla in din distributionsgrupp i administratörscentret och se till att du skapat en distributionsgrupp.
+#### Hur man klassificerar IT-Issue
+
+Issue i en IT-miljö kan kategoriseras på flera olika sätt. Några faktorer som påverkar kategoriseringen av incidenter inkluderar hur brådskande issue är och hur allvarlig den påverkar användarna eller verksamheten i allmänhet. Att klassificera och kategorisera IT-incidenter hjälper till att identifiera och dirigera incidenter till rätt tekniker, vilket sparar tid och ansträngning. Till exempel kan incidenter klassificeras som större eller mindre issue baserat på deras inverkan på verksamheten och deras brådska.
+
+#### Granskning efter issue hantering
+
+När ett ärende har stängts är det god praxis att dokumentera alla avhämtningar från den händelsen. Detta hjälper till att förbereda team bättre för framtida problem och skapar en mer effektiv process för ärendehantering. 
+De är bra tips att man ta upp i ärendehanterings granskning.
+
+-  Utfärda identifering 
+-  Informationsflöde och kommunikation 
+-  Struktur (Hur var svarsteamet?)
+-  Resursanvändning
+-  Bearbeta 
+-  Rapportering 
+
 
 
 <br><hr>
 
-[def]: agsdc.png
+
 
 [källor]: 
+
+(Lektionsmaterial)
 
 (scrum bilder - https://projektledning.se/scrum/ )
 
